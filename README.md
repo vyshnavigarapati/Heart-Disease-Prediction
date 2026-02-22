@@ -42,3 +42,17 @@ Multiple models were trained and compared to select the best performing model.
 ---
 
 ## 🧪 Confusion Matrix Example
+[[25  7] [ 3 26]]
+
+-
+##Conclusion
+-
+Among the tested models, the best performing model achieved the highest accuracy and can be used for heart disease prediction.
+
+
+##Future Improvements
+---
+Hyperparameter tuning
+Cross-validation
+Feature importance visualization
+Deployment using Flask or Streamlit
